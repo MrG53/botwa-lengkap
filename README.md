@@ -1,4 +1,4 @@
-## REUZSC
+## MrG53
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -9,15 +9,15 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 ## CARA INSTALL
 # TERMUX
-```bash
+```bas
 > download termux
 > buka
 > pkg install git
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/MrG53/botwa-lengkap
+> cd botwa-lengkap
 > bash install.sh
 > node index.js
 ```
@@ -47,9 +47,6 @@ ket : ✅ : aktif
 
 
 
-
-## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
 ## DONASI
-* Gopay : 081271699856 Reuz
+* DANA : 08998709414
+* OVO  : 08998709414 
